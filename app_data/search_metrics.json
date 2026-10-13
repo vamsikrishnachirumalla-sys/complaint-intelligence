@@ -1,0 +1,20 @@
+{
+  "TF-IDF": {
+    "precision_at_10": 0.256,
+    "product_precision_at_10": 0.546,
+    "mrr": 0.381,
+    "ms_per_query": 10.8
+  },
+  "BM25": {
+    "precision_at_10": 0.287,
+    "product_precision_at_10": 0.596,
+    "mrr": 0.427,
+    "ms_per_query": 1.1
+  },
+  "Embeddings": {
+    "precision_at_10": 0.298,
+    "product_precision_at_10": 0.613,
+    "mrr": 0.453,
+    "ms_per_query": 13.9
+  }
+}

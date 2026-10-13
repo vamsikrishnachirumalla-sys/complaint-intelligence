@@ -1,0 +1,8 @@
+{
+  "accuracy": 0.8082,
+  "macro_f1": 0.7683,
+  "train_complaints": 31917,
+  "epochs": 3,
+  "train_minutes": 9.7,
+  "device": "cuda"
+}

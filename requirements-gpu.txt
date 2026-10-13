@@ -1,0 +1,6 @@
+# only needed for the embedding search (sprint 3) and DistilBERT (sprint 5).
+# kept separate so the live dashboard doesn't have to install pytorch
+-r requirements.txt
+torch>=2.3
+transformers>=4.40
+sentence-transformers>=2.7

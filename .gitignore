@@ -1,0 +1,13 @@
+# raw download is 1GB+ and everything in data/ and models/ gets rebuilt by the scripts.
+# app_data/ and reports/ DO get committed, the live dashboard reads from them
+data/raw/*
+data/processed/*
+models/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!models/.gitkeep
+
+__pycache__/
+*.pyc
+.venv/
+.DS_Store

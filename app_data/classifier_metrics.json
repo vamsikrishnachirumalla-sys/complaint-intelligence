@@ -1,0 +1,25 @@
+{
+  "test_complaints": 6840,
+  "classes": [
+    "Bank account",
+    "Credit card",
+    "Credit reporting",
+    "Debt collection",
+    "Debt management",
+    "Money transfer",
+    "Mortgage",
+    "Personal loan",
+    "Prepaid card",
+    "Student loan",
+    "Vehicle loan"
+  ],
+  "logistic_regression": {
+    "accuracy": 0.7961,
+    "macro_f1": 0.7562
+  },
+  "numpy_neural_net": {
+    "accuracy": 0.7753,
+    "macro_f1": 0.7334,
+    "epochs_trained": 23
+  }
+}

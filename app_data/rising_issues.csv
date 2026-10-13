@@ -1,0 +1,84 @@
+product,issue,recent_avg,before_avg,growth
+Debt collection,Took or threatened to take negative or legal action,8024.333333333333,2998.6666666666665,1.675967096487328
+Mortgage,Problem with a company's investigation into an existing problem,56.333333333333336,34.666666666666664,0.6250000000000002
+Money transfer,Other transaction problem,949.6666666666666,602.6666666666666,0.575774336283186
+Vehicle loan,Problem with a company's investigation into an existing problem,63.0,42.666666666666664,0.4765625
+Money transfer,Unexpected or other fees,55.0,40.333333333333336,0.36363636363636354
+Money transfer,"Managing, opening, or closing your mobile wallet account",183.0,137.16666666666666,0.33414337788578385
+Money transfer,Unauthorized transactions or other transaction problem,480.6666666666667,363.0,0.32415059687786973
+Personal loan,Problem when making payments,169.0,132.16666666666666,0.278688524590164
+Student loan,Problem with a company's investigation into an existing problem,71.0,55.666666666666664,0.27544910179640714
+Personal loan,Struggling to pay your loan,147.0,115.66666666666667,0.27089337175792494
+Personal loan,Getting the loan,114.66666666666667,90.5,0.26703499079189696
+Vehicle loan,Struggling to pay your loan,97.0,76.66666666666667,0.26521739130434785
+Personal loan,Problem with additional add-on products or services,90.66666666666667,71.66666666666667,0.2651162790697674
+Credit reporting,Problem with a company's investigation into an existing problem,85197.33333333333,68078.0,0.2514664551445889
+Personal loan,Problem with a company's investigation into an existing problem,29.333333333333332,23.5,0.24822695035460995
+Mortgage,Incorrect information on your report,76.66666666666667,61.666666666666664,0.24324324324324342
+Vehicle loan,Incorrect information on your report,169.66666666666666,136.83333333333334,0.23995127892813617
+Bank account,Problem with a lender or other company charging your account,944.3333333333334,768.6666666666666,0.22853425845620134
+Credit card,Problem with a purchase shown on your statement,1990.0,1620.3333333333333,0.22814235753960088
+Personal loan,Problem with the payoff process at the end of the loan,100.0,83.16666666666667,0.20240480961923835
+Money transfer,Money was not available when promised,220.66666666666666,185.16666666666666,0.1917191719171918
+Vehicle loan,Managing the loan or lease,578.3333333333334,485.8333333333333,0.19039451114922823
+Mortgage,Struggling to pay mortgage,583.0,491.1666666666667,0.18696979979640305
+Personal loan,Incorrect information on your report,86.66666666666667,73.5,0.17913832199546498
+Money transfer,Problem with customer service,52.666666666666664,44.666666666666664,0.17910447761194037
+Credit card,Fees or interest,699.3333333333334,595.6666666666666,0.17403469501958613
+Credit card,Trouble using your card,293.6666666666667,251.16666666666666,0.16921035169210374
+Vehicle loan,Repossession,574.0,491.3333333333333,0.16824966078697434
+Bank account,Managing an account,3823.6666666666665,3276.3333333333335,0.16705666904059413
+Bank account,Problem caused by your funds being low,395.0,338.8333333333333,0.16576487948844076
+Money transfer,Trouble accessing funds in your mobile or digital wallet,294.3333333333333,253.0,0.16337285902503296
+Credit reporting,Incorrect information on your report,275063.0,236652.83333333334,0.16230596577123868
+Credit card,"Advertising and marketing, including promotional offers",290.6666666666667,251.66666666666666,0.15496688741721876
+Credit reporting,Problem with fraud alerts or security freezes,1478.6666666666667,1286.5,0.14937168026946512
+Mortgage,Applying for a mortgage or refinancing an existing mortgage,252.0,220.5,0.1428571428571428
+Mortgage,Closing on a mortgage,196.33333333333334,172.0,0.1414728682170543
+Vehicle loan,Problems at the end of the loan or lease,261.6666666666667,229.33333333333334,0.1409883720930234
+Mortgage,Trouble during payment process,1141.3333333333333,1001.1666666666666,0.1400033294489762
+Debt management,Didn't provide services promised,85.33333333333333,75.83333333333333,0.12527472527472527
+Personal loan,Charged fees or interest you didn't expect,327.0,292.6666666666667,0.11731207289293843
+Debt collection,Electronic communications,396.0,355.3333333333333,0.11444652908067554
+Credit card,Struggling to pay your bill,112.66666666666667,101.5,0.11001642036124792
+Money transfer,Other service problem,85.33333333333333,77.5,0.1010752688172043
+Money transfer,Fraud or scam,833.0,768.1666666666666,0.08440008678672162
+Bank account,Closing an account,912.0,842.0,0.08313539192399055
+Credit card,"Other features, terms, or problems",745.0,689.6666666666666,0.08023199613339793
+Personal loan,Getting a line of credit,35.0,32.5,0.07692307692307687
+Credit card,Closing your account,561.0,526.3333333333334,0.06586447118429373
+Debt management,Confusing or missing disclosures,73.0,68.5,0.06569343065693434
+Credit reporting,Unable to get your credit report or credit score,1357.3333333333333,1279.6666666666667,0.06069288877311796
+Prepaid card,Trouble using the card,215.0,205.33333333333334,0.04707792207792205
+Prepaid card,Unexpected or other fees,64.66666666666667,61.833333333333336,0.04582210242587603
+Debt management,Confusing or misleading advertising or marketing,37.666666666666664,36.166666666666664,0.041474654377880116
+Credit reporting,Problem with a company's investigation into an existing issue,214.66666666666666,208.83333333333334,0.027932960893854553
+Vehicle loan,Getting a loan or lease,221.0,215.0,0.027906976744185963
+Debt management,Unauthorized withdrawals or charges,37.0,36.333333333333336,0.0183486238532109
+Prepaid card,Problem getting a card or closing an account,97.0,95.83333333333333,0.012173913043478368
+Debt collection,Threatened to contact someone or share information improperly,221.0,220.5,0.0022675736961450532
+Credit card,Problem when making payments,362.6666666666667,362.0,0.0018416206261511192
+Student loan,Incorrect information on your report,204.0,204.5,-0.0024449877750610804
+Debt collection,Communication tactics,779.0,786.3333333333334,-0.009325985587113284
+Debt collection,False statements or representation,3228.0,3264.8333333333335,-0.011281841850017904
+Money transfer,Confusing or missing disclosures,72.0,73.16666666666667,-0.015945330296127658
+Credit reporting,Identity theft protection or other monitoring services,47.333333333333336,48.166666666666664,-0.01730103806228367
+Credit reporting,Improper use of your report,93705.66666666667,95766.83333333333,-0.021522761011554037
+Debt management,Charged upfront or unexpected fees,47.0,48.166666666666664,-0.02422145328719716
+Student loan,Getting a loan,31.333333333333332,32.166666666666664,-0.025906735751295318
+Debt collection,Attempts to collect debt not owed,9495.0,9822.0,-0.03329260843005499
+Prepaid card,Problem with a purchase or transfer,148.66666666666666,154.66666666666666,-0.03879310344827591
+Debt management,Problem with customer service,49.333333333333336,52.166666666666664,-0.054313099041533475
+Money transfer,Wrong amount charged or received,25.333333333333332,26.833333333333332,-0.05590062111801242
+Bank account,Opening an account,565.3333333333334,601.6666666666666,-0.06038781163434892
+Credit card,Improper use of your report,56.0,60.5,-0.07438016528925617
+Personal loan,Received a loan you didn't apply for,18.333333333333332,20.0,-0.08333333333333337
+Credit card,Getting a credit card,828.6666666666666,920.3333333333334,-0.09960159362549814
+Student loan,Dealing with your lender or servicer,774.0,896.3333333333334,-0.13648196355522502
+Student loan,Struggling to repay your loan,248.0,288.8333333333333,-0.1413733410271205
+Credit card,Incorrect information on your report,1127.6666666666667,1370.0,-0.17688564476885638
+Money transfer,Lost or stolen money order,16.333333333333332,20.0,-0.18333333333333335
+Credit reporting,Credit monitoring or identity theft protection services,529.3333333333334,665.3333333333334,-0.20440881763527052
+Debt collection,Written notification about debt,4727.0,6125.666666666667,-0.22832888937258533
+Student loan,Improper use of your report,32.333333333333336,91.33333333333333,-0.645985401459854
+Credit card,Problem with a company's investigation into an existing problem,290.6666666666667,941.1666666666666,-0.6911634496192669
