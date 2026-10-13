@@ -1,5 +1,9 @@
 # Customer Complaint Intelligence
 
+[![Open the live dashboard](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://complaint-intelligence-fd4cjdcfwce4bpyrm89mgv.streamlit.app/)
+
+**[View the live dashboard →](https://complaint-intelligence-fd4cjdcfwce4bpyrm89mgv.streamlit.app/)**
+
 **What are bank customers actually complaining about, which problems are growing, and can a new complaint be sent to the right team automatically?**
 
 Complaints filed with the Consumer Financial Protection Bureau are public, and for years many included the customer's own written story. This project scans 16.6 million complaint records and a sample of 45,597 written stories to find the main themes, track which issues are rising, build a search engine for similar past cases, and train three models to route new complaints to the right product team, including a neural network written from scratch and a fine-tuned DistilBERT.
